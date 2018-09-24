@@ -1,4 +1,9 @@
 # 小麦购商城(XiaoMaiGou.COM)短信微服务 项目简介(Instruction)
+
+<p align="center" >
+  <img src="https://github.com/xiaomaiyun/xiaomaigou_parent/blob/master/src/main/resources/xiaomaigoulogo/xiaomaigoulogo.png" alt="xiaomaigou.com" title="xiaomaigou.com">
+</p> 
+
 ## 一、项目说明
  **小麦购商城(XiaoMaiGou.COM)短信微服务** 项目是[小麦购商城(XiaoMaiGou.COM)](https://github.com/xiaomaiyun/xiaomaigou_parent)项目的 **子项目** ，该项目使用 **阿里大鱼** 实现发送短信功能，使用 **SpringBoot+ActiveMQ** 构建，通过监听类监听ActiveMQ中xiaomaigou_sms实现异步发送短信。
 
